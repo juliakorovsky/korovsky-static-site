@@ -1,4 +1,4 @@
-baseURL = "https://korovsky.com/"
+baseURL = "https://juliakorovsky.github.io/korovsky-static-site/"
 languageCode = "ru"
 title = "korovsky"
 theme = "PaperMod"
