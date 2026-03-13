@@ -14,5 +14,7 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/about/</loc>
   </url>
 </urlset>

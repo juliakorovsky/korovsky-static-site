@@ -7,3 +7,13 @@ theme = "PaperMod"
   showReadingTime = false
   showShareButtons = false
   defaultTheme = "auto"
+
+  [[menu.main]]
+  name = "Обо мне"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Посты"
+  url = "/posts/"
+  weight = 2
