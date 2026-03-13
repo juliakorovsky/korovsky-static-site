@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>korovsky</title>
+    <link>/</link>
+    <description>Recent content on korovsky</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOTA</title>
+      <link>/posts/sota/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/sota/</guid>
+      <description>&lt;p&gt;Модель — говно. Хоть и SOTA. Но — говно. Придётся дообучать на своих данных, и хорошо ещё, если это поможет. Проблема в том, что модели — и датасеты, конечно — растут куда медленнее, чем клиентские требования. А приносят-то они что? Пару голосовых, видео со дня рождения или что там накопали после похорон. Но качество-то студийное им подавай. Я же не могу им сказать «Да вы этого даже не услышите.». Я не могу им сказать «Да вы не будете слышать модель, вы будете слышать свою маму». Или мужа, или сестру. Неважно. Да и услышите-то один раз — в палате, перед тем, как вырубитесь окончательно. Стоит огород городить.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

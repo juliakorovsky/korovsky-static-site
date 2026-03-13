@@ -1,0 +1,9 @@
+baseURL = "https://korovsky.com/"
+languageCode = "ru"
+title = "korovsky"
+theme = "PaperMod"
+
+[params]
+  showReadingTime = false
+  showShareButtons = false
+  defaultTheme = "auto"
