@@ -1,0 +1,16 @@
+---
+title: "Swimless"
+date: 2026-02-11
+draft: false
+---
+You’re here because of him. Of course, it’s because of him. He’d always wanted to swim. He’d wanted to be an astronaut too. You, on the other hand, were prepared to die swimless. Your grandmother never learned to swim. Neither did your mother. And traditions? Traditions matter. Water itself was never the problem — you weren’t afraid of water as far as you knew. The problem was THEM — the showers. And THEM — the people. Too many of “THEM” for one petite naked body. The same problem you had with beaches — you never asked to be seen and never asked to see. The problem is not that THEY are judgmental, it’s that they ARE.
+
+But then you finally moved together — into some nowhere neighborhood — and found out the swimming pool is just a short walk away from your flat. 10 minutes — that number was too difficult to ignore. He decided to learn to swim. And you knew: you were either going with him, shielded by his presence, or dying swimless. It was not an easy choice, but an obvious one. You did what you always do — tried to prepare. To rehearse. You watched YouTube videos on how to put on a swimming cap, then practiced at home again and again as if it were the only problem.
+
+And here you are — a 50-kilo elephant in the room, looking for cracks between the lockers to disappear into. Not looking at anyone and still looking at them. It’s even more revealing when you depart for the showers — a “Who’s more naked?” contest between you and the tiled walls. So you move in slow motion, tearing apart this emptiness with your half-naked body (thank God you have the towel). And people, of course there are people.
+
+Tired from this journey — not so much by the walk from the lockers to the destination, more by the traveling through the corridors of your uneasiness — you’re near the pool at last. It smells like the sea to you, which surprises you — you know how the sea smells and it doesn’t have this chlorine scent. The only thing that’s left is diving into the pool. It’s glacial and unfriendly, you’re freezing, and your new coach — a tall woman with unearthly good posture, but clearly simpleminded — gives you stupid advice: to submerge even further and start moving. Like many other stupid pieces of advice you were given — it works.
+
+But even then you’re disappointed: you expected to swim (poorly, slowly, but still), yet you spend most of the training session exhaling into the water. Well, he does. You just lower your head so that your nose is under water and discover the breathing apparatus doesn’t work. Your own body doesn’t work. Without fear or panic — it doesn’t. And all this time your favorite person, right near you, squats in the water and happily blows bubbles. Humiliation covers you and weighs you down, but not so much as to drown you right here and now. No, it’s not that merciful. Desperation is creeping in.
+
+After the session you’re angry. Even your favorite person annoys you: he’s unfair enough to do something you can’t. Not much hope left, except another stupid piece of advice: to fill a plastic container with water, submerge your nose and try to exhale. That’s what you will be doing until the next session — obsessively, compulsively, stubbornly. As for whether this helps or not? You’ll know.
