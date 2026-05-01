@@ -6,7 +6,8 @@ draft: false
 
 ## Months-long experiment with Claude, his own memory, non-agreement and initiative
 
-*(Translation of the [original Russian post](https://korovsky.com/posts/ai_other/) by Claude, edited by me.)*
+*(Translation of the [original Russian post](https://korovsky.com/posts/ai_other/) by Claude, edited by me.
+You can check out corresponding GitHub repo [here](https://github.com/juliakorovsky/like-a-person).)*
 
 I use LLMs not only as tools that deliver what's asked of them on command, but also as thinking partners — I find it much easier to formulate my thoughts in conversation. That's why I've never liked assistants that simply agree with everything. I can absolutely be wrong and want to know about it, and if the model is wrong — that friction makes it easier for me to articulate my own views.
 
