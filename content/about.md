@@ -4,7 +4,7 @@ layout: "page"
 ---
 
 <div id="about-real">
-<p>Добро пожаловать! Это Коровски, конкретно отбитая личность. Саркастичная, честная, тупая, как скотина, местами умная. Раньше раздражала редактора научно-популярного журнала, теперь бешу ML-инженеров (TTS) и нейросети. И периодически — тренеров по плаванию и скейтбордингу. В свободное время печатаю буковки на экране.</p>
+<p>Добро пожаловать! Это Коровски, конкретно отбитая личность. Саркастичная, честная, тупая, как скотина, местами умная. Раньше раздражала редактора научно-популярного журнала, теперь бешу ML-инженеров (TTS) и нейросети. И периодически — тренеров по плаванию и скейтбордингу. В свободное время печатает буковки на экране.</p>
 
 <p>Welcome! This is Korovsky, a genuinely unhinged person. Sarcastic, honest, stupid as fuck, smart around the edges. Previously annoyed an editor of a popular science magazine, now annoys ML engineers (TTS) and neural networks. And occasionally — swimming and skateboarding coaches. Also puts letters on screens in her free time.</p>
 </div>
