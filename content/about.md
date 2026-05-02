@@ -15,7 +15,7 @@ layout: "page"
 <p>Highly motivated and results-driven ML professional with a proven track record of delivering impactful solutions. Passionate about leveraging cutting-edge technologies to drive innovation and cross-functional synergy. A dedicated team player with exceptional communication skills and a growth mindset. Committed to excellence.</p>
 </div>
 
-<button id="hr-btn" onclick="toggleHR()" style="margin-top:1rem;cursor:pointer">Я HR / I'm HR</button>
+<button id="hr-btn" onclick="toggleHR()" style="margin-top:1.5rem;cursor:pointer;font-size:1.1rem;padding:0.6rem 1.4rem;border:2px solid currentColor;background:transparent;border-radius:6px;font-weight:bold;">Я HR / I'm HR</button>
 
 <script>
 function toggleHR() {
