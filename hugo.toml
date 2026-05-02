@@ -17,3 +17,8 @@ theme = "PaperMod"
   name = "Посты"
   url = "/posts/"
   weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
